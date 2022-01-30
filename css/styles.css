@@ -1,0 +1,8 @@
+.flex-container{
+    display: flex;
+}
+
+.flex-container div {
+    height: 100px;
+    flex: 1;
+}
